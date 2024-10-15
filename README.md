@@ -1,5 +1,5 @@
 
-# Spring Security JWT Example Project
+# Spring Security JWT Project
 
 This project demonstrates how to implement **JWT (JSON Web Token) Authentication** with **Spring Security**. It includes features like user registration, login, token generation, and role-based access control using JWT tokens. The project uses a combination of Spring Boot, Spring Security, and JPA for authentication and authorization.
 
